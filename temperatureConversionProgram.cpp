@@ -1,4 +1,6 @@
-#include <iostream>     //temperature conversion program
+//temperature conversion program
+
+#include <iostream>
 using namespace std;
 
 int main(){
